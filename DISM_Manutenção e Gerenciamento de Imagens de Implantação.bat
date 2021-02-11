@@ -48,3 +48,4 @@ if %errorLevel% == 0 (
 )
 
 pause >nul
+exit
