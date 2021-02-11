@@ -41,3 +41,4 @@ pause >nul
 )
 
 pause >nul
+exit
